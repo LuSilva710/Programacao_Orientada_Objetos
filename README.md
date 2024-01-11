@@ -28,6 +28,8 @@ Agradeço a sua visita e contribuição! Vamos juntos aprender e crescer na jorn
 
 Em caso de dúvidas ou sugestões relacionadas a este repositório, sinta-se à vontade para entrar em contato:
 
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ludmila-silva-s0097/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
